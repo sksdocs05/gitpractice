@@ -1,2 +1,2 @@
 # gitpractice
-Sample Git repository 
+Sample Git repository - Simple Proeject to test Git
